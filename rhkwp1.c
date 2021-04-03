@@ -26,3 +26,4 @@ int main() {
 
 	return 0;
 	}
+//안되면 속성들어가고 전처리기 정의 뒤에 _CRT_SECURE_NO_WARNINGS; 붙이셈
