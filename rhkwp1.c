@@ -1,4 +1,3 @@
-/*계산기*/
 #include <stdio.h>
 
 int main() {
